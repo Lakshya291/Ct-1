@@ -13,7 +13,6 @@ void LengthOfLongestSubarray(int arr[], int n, int k)
 
     for (int i = 0; i < n; i++)
     {
-
         // Sum of elements
         sum += arr[i];
 
